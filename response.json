@@ -1,0 +1,14 @@
+{
+    "Message": "Sms gönderme işlemi başarılı.",
+    "IsSuccess": true,
+    "FaultCode": 10,
+    "Result": {
+        "Id": "e4d6d54d-6878-440e-9cdc-e86fc4c3137c",
+        "Ad": "ALİ",
+        "Soyad": "AYDIN",
+        "TelefonNumarasi": "00129874345",
+        "KimlikNo": "12398745603",
+        "DogumYili": "1995",
+        "OgrenciMi": true
+    }
+}
