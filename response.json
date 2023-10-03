@@ -1,14 +1,30 @@
 {
-    "Message": "Sms gönderme işlemi başarılı.",
-    "IsSuccess": true,
-    "FaultCode": 10,
-    "Result": {
-        "Id": "e4d6d54d-6878-440e-9cdc-e86fc4c3137c",
-        "Ad": "ALİ",
-        "Soyad": "AYDIN",
-        "TelefonNumarasi": "00129874345",
-        "KimlikNo": "12398745603",
-        "DogumYili": "1995",
-        "OgrenciMi": true
-    }
+    {
+        "Ad": "01.10.2023",
+        "Soyad": "ABC Okulu"
+    },
+    {
+        "Ad": "02.10.2023",
+        "Soyad": "XYZ Okulu"
+    },
+    {
+        "Ad": "03.10.2023",
+        "Soyad": "KALM Okulu"
+    },
+    {
+        "Ad": "04.10.2023",
+        "Soyad": "OTP Okulu"
+    },
+    {
+        "Ad": "05.10.2023",
+        "Soyad": "BHY Okulu"
+    },
+    {
+        "Ad": "06.10.2023",
+        "Soyad": "ASDF Okulu"
+    },
+    {
+        "Ad": "07.10.2023",
+        "Soyad": "WRT Okulu"
+    },
 }
